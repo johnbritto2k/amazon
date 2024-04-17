@@ -1,0 +1,3 @@
+l="komali"
+print(l)
+
