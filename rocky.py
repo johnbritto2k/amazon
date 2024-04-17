@@ -1,0 +1,3 @@
+g="johnny"
+print(g)
+
