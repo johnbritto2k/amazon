@@ -1,3 +1,3 @@
-l="komali"
+l="funny guy"
 print(l)
 
